@@ -1,4 +1,4 @@
-FILEPATH = "C:/Users/sydne/Documents/Coding/Python/App1/py_course_main/todos.txt"
+FILEPATH = "todos.txt"
 
 text = """
 You can add in multi-line strings outside of functions.
